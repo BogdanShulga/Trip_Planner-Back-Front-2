@@ -5,11 +5,11 @@ import entity.User;
 import entity.User.UserQueries;
 import utils.MD5HashPassword;
 
-import javax.jws.soap.SOAPBinding;
+//import javax.jws.soap.SOAPBinding;
 import java.util.List;
 
 
-public final class UserDaoImpl extends DaoCRUDAbsImpl<User> {
+public class UserDaoImpl extends DaoCRUDAbsImpl<User> {
 
     public UserDaoImpl() {
         super();
