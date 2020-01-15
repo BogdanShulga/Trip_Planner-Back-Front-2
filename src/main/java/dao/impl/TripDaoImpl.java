@@ -11,7 +11,7 @@ import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 
-public final class TripDaoImpl extends DaoCRUDAbsImpl<Trip> {
+public class TripDaoImpl extends DaoCRUDAbsImpl<Trip> {
 
         public TripDaoImpl() {
             super();

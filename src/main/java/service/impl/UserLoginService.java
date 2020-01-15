@@ -10,7 +10,7 @@ import exception.Message;
 import exception.NotFoundException;
 import service.UserService;
 
-import javax.jws.soap.SOAPBinding;
+//import javax.jws.soap.SOAPBinding;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
